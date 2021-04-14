@@ -1,6 +1,6 @@
 This project is for the UNH/Trilogy Web Dev Bootcamp
 
-Based of of Week 03: JavaScript
+Based off of Week 03: JavaScript
 
 
 
